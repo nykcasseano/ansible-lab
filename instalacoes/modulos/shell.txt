@@ -1,0 +1,7 @@
+chdir = Mude para este diretório antes de executar o comandos 
+
+cmd = the command to run followed by optional arguments
+
+creates = A filename, when it already exists, this step will not be run again
+
+warn = whether to enable task warnings.
